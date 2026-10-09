@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Ambiente e segredos
+.env
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+
+# Node (usaremos no front)
+node_modules/
+.next/
